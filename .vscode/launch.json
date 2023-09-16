@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "to_laser",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}/Triumph!/rulers"
+        }
+    ]
+}
